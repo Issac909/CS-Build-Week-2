@@ -6,3 +6,8 @@ here as necessary.
 
 For all details about the week, [check out the page in
 TrainingKit](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL).
+
+# Day 1 
+https://leetcode.com/submissions/detail/386094152/
+
+https://leetcode.com/submissions/detail/385861679/
