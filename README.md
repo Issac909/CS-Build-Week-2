@@ -20,3 +20,7 @@ https://leetcode.com/submissions/detail/386516230/
 
 ## Implement Queue using Stack
 https://leetcode.com/submissions/detail/386608916/
+
+# Day 3
+## Assessment
+https://app.codesignal.com/test/ZH8HENCyCT5vpRfZ5
