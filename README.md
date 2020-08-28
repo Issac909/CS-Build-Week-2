@@ -24,3 +24,14 @@ https://leetcode.com/submissions/detail/386608916/
 # Day 3
 ## Assessment
 https://app.codesignal.com/test/ZH8HENCyCT5vpRfZ5
+
+# Day 4
+## Find Duplicate Number
+https://leetcode.com/submissions/detail/387252506/
+
+## Search in a Rotated Sorted Array
+https://leetcode.com/submissions/detail/387263503/
+
+# Day 5
+## Assessment Re-take
+https://app.codesignal.com/test/Kezm6xWFRhYfcSFrG
